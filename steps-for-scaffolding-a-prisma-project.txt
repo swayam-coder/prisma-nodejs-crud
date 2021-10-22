@@ -1,0 +1,2 @@
+- install prisma as devdependency and @prisma/client as dependency
+- run npx prisma init
